@@ -1,4 +1,4 @@
-# SOS_app_Template_Flutter
+# SOS_app_Flutter
 
 Below is the SOS App template
 
